@@ -1,7 +1,7 @@
 # Algorytm Needlemana-Wunscha
 ## Opis
 
-Program implementuje algorytm Needleman-Wunsch do globalnego dopasowania sekwencji nukleotydowych. Sekwencje do dopasowania przekazywane są w jednym pliku FASTA, a wyniki do 10 dopasowań z maksymalnym scorem zapisywane do pliku txt. Pozwala użytkownikowi na dostosowywanie punktacji match, mismatch i gap. W repozytorium znajduje się przykładowy plik FASTA.
+Program implementuje algorytm Needleman-Wunsch do globalnego dopasowania sekwencji nukleotydowych. Sekwencje do dopasowania przekazywane są w jednym pliku FASTA, a wyniki do 10 dopasowań z maksymalnym scorem zapisywane do pliku txt. Pozwala użytkownikowi na dostosowywanie punktacji match, mismatch i gap. W repozytorium znajduje się przykładowy plik FASTA. Jeżeli w podanym na wejściu pliku FASTA będa się znajdować więcej niż 2 sekwencje to przeanalizowane zostaną pierwsze dwie.
 
 ## Sposób użycia
 
